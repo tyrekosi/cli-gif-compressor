@@ -1,3 +1,6 @@
+# Notes in code courtesy of ChatGPT-4
+# Trust me, you didn't want to see what it looked like before...
+
 import argparse
 import os
 from PIL import Image, UnidentifiedImageError
